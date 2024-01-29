@@ -1,7 +1,7 @@
 <h1>Basic REST API with Node.JS, Express and Postman</h1>
 
 <h2>Description</h2>
-Welcome to our beginner-friendly project! Instead of diving into the technical nitty-gritty of what a REST API is, we're going to take a more relaxed approach. Picture real-life situations everyone can relate to. We'll then connect these everyday scenarios with REST APIs, making it a breeze to grasp how they work. Say goodbye to the traditional, complicated learning methods – we're keeping it friendly and straightforward!<br />
+Welcome to my beginner-friendly project! Instead of diving into the technical nitty-gritty of what a REST API is, we're going to take a more relaxed approach. Picture real-life situations everyone can relate to. We'll then connect these everyday scenarios with REST APIs, making it a breeze to grasp how they work. Say goodbye to the traditional, complicated learning methods – we're keeping it friendly and straightforward!<br />
 
 
 <h2>Utilities Used</h2>
